@@ -18,6 +18,8 @@ year={2025}
 | |Publication|Method|Paper Title|First Author|Code Link|
 |-|-|-|-|-|-|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
+|2|ECCV 2024|DiffLI2D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
+
 
 
 

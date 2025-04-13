@@ -15,10 +15,10 @@ year={2025}
 
 
 ## Diffusion Models for Image Dehazing
-| |Publication|Method|
-|-|-|-|
-|1|MMSP 2024|Paper Title|
-|-|-|-|
+| |Publication|Method|Paper Title|First Author|Code Link|
+|-|-|-|-|-|-|
+|1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
+
 
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)

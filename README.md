@@ -17,7 +17,7 @@ year={2025}
 ## Diffusion Models for Image Dehazing
 | |Publication|Method|Paper Title|First Author|Code Link|
 |:-:|-|-|-|-|-|
-|1|<div style="width:200px">MMSP 2024</div>|<div style="width:500px">Paper Title</div>|<div style="width:5000px">Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning</div>|Haoran Wei|No|
+|1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
 |3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|https://github.com/jm-xiong/RSHazeDiff|
 |4|CVIU 2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|https://github.com/stallak/DehazeDP|

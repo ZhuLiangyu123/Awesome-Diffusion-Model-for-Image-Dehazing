@@ -15,6 +15,28 @@ year={2025}
 
 
 ## Diffusion Models for Image Dehazing
+
+<style>
+table th:first-of-type {
+    width: 5%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(4) {
+    width: 40%;
+}
+table th:nth-of-type(5) {
+    width: 10%;
+}
+table th:nth-of-type(6) {
+    width: 25%;
+}
+</style>
+
 | |Publication|Method|Paper Title|First Author|Code Link|
 |:-:|-|-|-|-|-|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|

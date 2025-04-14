@@ -17,7 +17,7 @@ year={2025}
 ## Diffusion Models for Image Dehazing
 | |Publication|Method|Paper Title|First Author|Code Link|
 |:-:|-|-|-|-|-|
-|1|<div style="width:200px">MMSP 2024</div>|<div style="width:500px">Paper Title</div>|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
+|1|<div style="width:200px">MMSP 2024</div>|<div style="width:500px">Paper Title</div>|<div style="width:5000px">Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning</div>|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
 |3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|https://github.com/jm-xiong/RSHazeDiff|
 |4|CVIU 2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|https://github.com/stallak/DehazeDP|
@@ -34,7 +34,7 @@ year={2025}
 |15|ICIGP 2024|Wang et al.|Image Dehazing based on Iterative-Refining Diffusion Model|Jiarong Wang|No|
 |16|ICMA 2024|DTDM|Image Dehazing Method Based on Diffusion Model|Fengxu Guan|No|
 |17|TGRS 2024|Li et al.|Integrated Methodology for Atmospheric Correction and Cloud Removal of Multispectral Remote Sensing Images Using Guided Diffusion Model|Anran Li|No|
-|18|TCSVT 2025|DMSR	When|Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|No|
+|18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|No|
 |19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|No|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|https://github.com/ywxjm/Diff-Dehazer|
 

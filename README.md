@@ -37,7 +37,7 @@ year={2025}
 |18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|No|
 |19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|No|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|https://github.com/ywxjm/Diff-Dehazer|
-|<img width=100/>|<img width=300/>|<img width=300/>|<img width=1000/>|||
+|<img width=100/>|<img width=200/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|
@@ -61,5 +61,5 @@ year={2025}
 |17|CVPR 2024|TextualDegRemoval|Improving image restoration through removing degradations in textual representations|Jingbo Lin|https://github.com/mrluin/TextualDegRemoval|
 |18|arXiv 2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|https://github.com/huawei-noah/Pretrained-IPT|
 |19|CVPR 2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|https://github.com/yuhaoliu7456/Diff-Plugin/|
-
+|<img width=100/>|<img width=200/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 

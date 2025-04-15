@@ -53,7 +53,7 @@ year={2025}
 |10|arXiv 2024|-|Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration|Xinlong Cheng|-|-|
 |11|ACCV 2024|DiffLoss|DiffLoss: unleashing diffusion model as constraint for training image restoration network|Jiangtong Tan|-|-|
 |12|arXiv 2024|JCDM|Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations|Yufeng Yue|-|-|
-|13|CVPR 2024|DTPM|Learning Diffusion Texture Priors for Image Restoration|Tian Ye|No|-|
+|13|CVPR 2024|DTPM|Learning Diffusion Texture Priors for Image Restoration|Tian Ye|-|-|
 |14|CVPR 2024|DiffTTA|Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal|Yijun Yang|[Code](https://github.com/scott-yjyang/DiffTTA)|-|
 |15|arXiv 2024|CFMW|CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions|Haoyuan Li|[Code](https://github.com/lhy-zjut/CFMW)|-|
 |16|MMM 2025|TDM|TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration|Yizhou Li|[Code](https://github.com/Yizhou-Li-CV/TDM)|-|

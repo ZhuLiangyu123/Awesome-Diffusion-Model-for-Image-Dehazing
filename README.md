@@ -16,7 +16,7 @@ year={2025}
 
 ## Diffusion Models for Image Dehazing
 | |Publication|Method|Paper Title|First Author|Code Link|
-|:-:|-|-|-|-|-|
+|:-:|-|-|-|-|:-:|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
 |3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|https://github.com/jm-xiong/RSHazeDiff|
@@ -37,11 +37,10 @@ year={2025}
 |18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|No|
 |19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|No|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|https://github.com/ywxjm/Diff-Dehazer|
-|<img width=100/>|<img width=200/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|
-|-|-|-|-|-|-|
+|:-:|-|-|-|-|:-:|
 |1|Vis. Comput. 2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|https://github.com/RHEPI/UTDM|
 |2|PAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|https://github.com/IGITUGraz/WeatherDiffusion|
 |3|TMM 2024|WaveDM|Wavedm: Wavelet-based diffusion models for image restoration|Yi Huang|https://github.com/stayalive16/WaveDM|
@@ -61,5 +60,4 @@ year={2025}
 |17|CVPR 2024|TextualDegRemoval|Improving image restoration through removing degradations in textual representations|Jingbo Lin|https://github.com/mrluin/TextualDegRemoval|
 |18|arXiv 2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|https://github.com/huawei-noah/Pretrained-IPT|
 |19|CVPR 2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|https://github.com/yuhaoliu7456/Diff-Plugin/|
-|<img width=100/>|<img width=200/>|<img width=200/>|<img width=500/>|<img width=200/>|<img width=500/>|
 

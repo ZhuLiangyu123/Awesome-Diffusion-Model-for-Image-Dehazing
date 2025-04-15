@@ -15,7 +15,7 @@ year={2025}
 
 
 ## Diffusion Models for Image Dehazing
-|<div style="width:100px;">字段1</div>|Publication|Method|Paper Title|First Author|Code Link|
+|字段1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Publication|Method|Paper Title|First Author|Code Link|
 |:-:|:-:|:-:|-|:-:|:-:|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|

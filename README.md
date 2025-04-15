@@ -19,7 +19,7 @@ year={2025}
 |:-:|:-:|:-:|-|:-:|:-:|:-:|
 |1|MMSP 2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|-|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|-|-|
-|3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|-|
+|3|TITS 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|-|
 |4|CVIU 2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|[Code](https://github.com/stallak/DehazeDP)|-|
 |5|arXiv 2023|DehazeDDPM|High-quality image dehazing with diffusion model|Hu Yu|[Code](https://github.com/yuhuUSTC/DehazeDDPM)|Yes|
 |6|NN 2024|FCDM|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|Yes|

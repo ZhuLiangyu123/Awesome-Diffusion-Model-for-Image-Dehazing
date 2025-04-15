@@ -17,7 +17,7 @@ year={2025}
 ## Diffusion Models for Image Dehazing
 | |Publication|Method|Paper Title|First Author|Code Link|
 |:-:|:-:|:-:|-|:-:|:-:|
-|1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
+|1|MMSP 2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
 |3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|https://github.com/jm-xiong/RSHazeDiff|
 |4|CVIU 2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|https://github.com/stallak/DehazeDP|
@@ -25,15 +25,15 @@ year={2025}
 |6|NN 2024|FCDM|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch|
 |7|CGF 2024|DADM|Density‐Aware Diffusion Model for Efficient Image Dehazing|Ling Zhang|https://github.com/benchacha/DADM|
 |8|ICIC 2024|MP-DDPM|A Multi-scale Patch Approach with Diffusion Model for Image Dehazing|Yao Guo|No|
-|9|ICIP 2024|Zhang et al.|Clouds and Haze Co-Removal Based on Weight-Tuned Overlap Refinement Diffusion Model for Remote Sensing Images|Jingxuan Zhang|No|
+|9|ICIP 2024|-|Clouds and Haze Co-Removal Based on Weight-Tuned Overlap Refinement Diffusion Model for Remote Sensing Images|Jingxuan Zhang|No|
 |10|ISCAS 2024|DehazeDiff|DehazeDiff: When Conditional Guidance Meets Diffusion Models for Image Dehazing|Longyu Cheng|No|
 |11|SMC 2023|DehazeDM|DehazeDM: Image dehazing via patch autoencoder based on diffusion models|Yuming Yang|No|
 |12|GRSL 2023|ARDD-Net|Remote sensing image dehazing using adaptive region-based diffusion models|Yufeng Huang|No|
 |13|GRSL 2024|ADND-Net|Diffusion models based null-space learning for remote sensing image dehazing|Yufeng Huang|No|
 |14|CCC 2024|FP-Diff|Frequency-based and Physics-guiding Diffusion Model for Single Image Dehazing|Siying Xie|No|
-|15|ICIGP 2024|Wang et al.|Image Dehazing based on Iterative-Refining Diffusion Model|Jiarong Wang|No|
+|15|ICIGP 2024|-|Image Dehazing based on Iterative-Refining Diffusion Model|Jiarong Wang|No|
 |16|ICMA 2024|DTDM|Image Dehazing Method Based on Diffusion Model|Fengxu Guan|No|
-|17|TGRS 2024|Li et al.|Integrated Methodology for Atmospheric Correction and Cloud Removal of Multispectral Remote Sensing Images Using Guided Diffusion Model|Anran Li|No|
+|17|TGRS 2024|-|Integrated Methodology for Atmospheric Correction and Cloud Removal of Multispectral Remote Sensing Images Using Guided Diffusion Model|Anran Li|No|
 |18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|No|
 |19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|No|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|https://github.com/ywxjm/Diff-Dehazer|
@@ -50,7 +50,7 @@ year={2025}
 |7|CVPR 2024|DiffUIR|Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model|Dian Zheng|https://github.com/iSEE-Laboratory/DiffUIR|
 |8|arXiv 2023|IR-SDE|Image restoration with mean-reverting stochastic differential equations|Ziwei Luo|https://github.com/Algolzw/image-restoration-sde|
 |9|CVPR 2023|Refusion|Refusion: Enabling large-size realistic image restoration with latent-space diffusion models|Ziwei Luo|https://github.com/Algolzw/image-restoration-sde|
-|10|arXiv 2024|Cheng et al.|Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration|Xinlong Cheng|No|
+|10|arXiv 2024|-|Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration|Xinlong Cheng|No|
 |11|ACCV 2024|DiffLoss|DiffLoss: unleashing diffusion model as constraint for training image restoration network|Jiangtong Tan|No|
 |12|arXiv 2024|JCDM|Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations|Yufeng Yue|No|
 |13|CVPR 2024|DTPM|Learning Diffusion Texture Priors for Image Restoration|Tian Ye|No|

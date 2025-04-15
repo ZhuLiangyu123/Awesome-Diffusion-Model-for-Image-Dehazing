@@ -16,7 +16,7 @@ year={2025}
 
 ## Diffusion Models for Image Dehazing
 | |Publication|Method|Paper Title|First Author|Code Link|
-|:-:|-|-|-|-|:-:|
+|:-:|:-:|:-:|-|:-:|:-:|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
 |3|arXiv 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|https://github.com/jm-xiong/RSHazeDiff|
@@ -40,7 +40,7 @@ year={2025}
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|
-|:-:|-|-|-|-|:-:|
+|:-:|:-:|:-:|-|:-:|:-:|
 |1|Vis. Comput. 2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|https://github.com/RHEPI/UTDM|
 |2|PAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|https://github.com/IGITUGraz/WeatherDiffusion|
 |3|TMM 2024|WaveDM|Wavedm: Wavelet-based diffusion models for image restoration|Yi Huang|https://github.com/stayalive16/WaveDM|

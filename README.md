@@ -15,7 +15,7 @@ year={2025}
 
 
 ## Diffusion Models for Image Dehazing
-|字段1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Publication|Method|Paper Title|First Author|Code Link|
+| |Publication|Method|Paper Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|First Author|Code Link|
 |:-:|:-:|:-:|-|:-:|:-:|
 |1|MMSP 2024|Paper Title|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|No|
 |2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|No|
@@ -39,7 +39,7 @@ year={2025}
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|https://github.com/ywxjm/Diff-Dehazer|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
-| |Publication|Method|Paper Title|First Author|Code Link|
+| |Publication|Method|Paper Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|First Author|Code Link|
 |:-:|:-:|:-:|-|:-:|:-:|
 |1|Vis. Comput. 2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|https://github.com/RHEPI/UTDM|
 |2|PAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|https://github.com/IGITUGraz/WeatherDiffusion|
@@ -57,7 +57,7 @@ year={2025}
 |14|CVPR 2024|DiffTTA|Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal|Yijun Yang|https://github.com/scott-yjyang/DiffTTA|
 |15|arXiv 2024|CFMW|CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions|Haoyuan Li|https://github.com/lhy-zjut/CFMW|
 |16|MMM 2025|TDM|TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration|Yizhou Li|https://github.com/Yizhou-Li-CV/TDM|
-|17|CVPR 2024|TextualDegRemoval|Improving image restoration through removing degradations in textual representations|Jingbo Lin|https://github.com/mrluin/TextualDegRemoval|
+|17|CVPR 2024|TextualDeg Removal|Improving image restoration through removing degradations in textual representations|Jingbo Lin|https://github.com/mrluin/TextualDegRemoval|
 |18|arXiv 2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|https://github.com/huawei-noah/Pretrained-IPT|
 |19|CVPR 2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|https://github.com/yuhaoliu7456/Diff-Plugin/|
 

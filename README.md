@@ -46,7 +46,7 @@ year={2025}
 |27|IEEE TGRS 2025|MS-FODN|Collaboration of Dehazing and Object Detection Tasks: A Multi-Task Learning Framework for Foggy Image|Yu Wan|-|-|
 |28|MoSICom 2024|RD-DDPM|Revamped Lane detection in hazy environments using Denoising Diffusion Probabilistic Model|Sivakumar Palanirajan|-|-|
 |29|arXiv 2025|FDG-Diff|FDG-Diff: Frequency-Domain-Guided Diffusion Framework for Compressed Hazy Image Restoration|Ruicheng Zhang|[Code](https://github.com/SYSUzrc/FDG-Diff)|-|
-|30|arXiv 2025|ProDehaze|ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing|Tianwen Zhou|[Code](https://github.com/TianwenZhou/ProDehaze)|Yes|
+|30|ICME 2025|ProDehaze|ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing|Tianwen Zhou|[Code](https://github.com/TianwenZhou/ProDehaze)|Yes|
 |31|arXiv 2025|BeyondHaze|Seeing Beyond Haze: Generative Nighttime Image Dehazing|Beibei Lin|-|-|
 |32|ICMLC 2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|-|
 

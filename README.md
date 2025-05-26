@@ -72,4 +72,9 @@ year={2025}
 |17|CVPR 2024|TextualDeg Removal|Improving image restoration through removing degradations in textual representations|Jingbo Lin|[Code](https://github.com/mrluin/TextualDegRemoval)|-|
 |18|arXiv 2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|[Code](https://github.com/huawei-noah/Pretrained-IPT)|Yes|
 |19|CVPR 2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|[Code](https://github.com/yuhaoliu7456/Diff-Plugin/)|Yes|
+|20|arXiv 2024|Diff-Restorer|Diff-restorer: Unleashing visual prompts for diffusion-based universal image restoration|Yuhong Zhang|-|-|
+|21|arXiv 2023|VIDiff|Vidiff: Translating videos via multi-modal instructions with diffusion models|Zhen Xing|[Code](https://github.com/ChenHsing/VIDiff)|-|
+|22|PR 2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|-|
+|23|AAAI 2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 

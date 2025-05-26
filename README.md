@@ -76,5 +76,5 @@ year={2025}
 |21|arXiv 2023|VIDiff|Vidiff: Translating videos via multi-modal instructions with diffusion models|Zhen Xing|[Code](https://github.com/ChenHsing/VIDiff)|-|
 |22|PR 2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|-|
 |23|AAAI 2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|-|
-|24|arXiv 2023|SUD$^2$|SUD$^2$: Supervision by Denoising Diffusion Models for Image Reconstruction|Matthew A Chan|-|-|
+|24|arXiv 2023|SUD&sup2;|SUD&sup2;: Supervision by Denoising Diffusion Models for Image Reconstruction|Matthew A Chan|-|-|
 

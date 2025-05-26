@@ -37,6 +37,14 @@ year={2025}
 |18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|-|-|
 |19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|-|-|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|21|ICLR 2025|DiffAD|Addressing domain shift with diffusion-based adaptation for real image dehazing|Zixuan Chen|-|-|
+|22|APSIPA ASC 2024|-|Enhanced RefineDNet for Single Image Dehazing|Jingyu Ren|-|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|Pre-trained Model|

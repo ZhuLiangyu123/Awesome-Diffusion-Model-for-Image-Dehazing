@@ -41,9 +41,9 @@ year={2025}
 |22|APSIPA ASC 2024|-|Enhanced RefineDNet for Single Image Dehazing|Jingyu Ren|-|-|
 |23|arXiv 2025|DiffDehaze|Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing|Ruiyi Wang|[Code](https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing)|Yes|
 |24|NeurIPS 2024|-|Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization|Chen Hang|-|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|25|arXiv 2025|IDDM|IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing|Shijun Zhou|-|-|
+|26|IEEE SPL 2025|KDDM|Scene Text Detection in Foggy Weather Utilizing Knowledge Distillation of Diffusion Models|Zhaoxi Liu|-|-|
+|27|IEEE TGRS 2025|MS-FODN|Collaboration of Dehazing and Object Detection Tasks: A Multi-Task Learning Framework for Foggy Image|Yu Wan|-|-|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)

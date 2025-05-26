@@ -76,5 +76,5 @@ year={2025}
 |21|arXiv 2023|VIDiff|Vidiff: Translating videos via multi-modal instructions with diffusion models|Zhen Xing|[Code](https://github.com/ChenHsing/VIDiff)|-|
 |22|PR 2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|-|
 |23|AAAI 2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|24|arXiv 2023|Diff-Dehazer|SUD $\^{} 2$: Supervision by Denoising Diffusion Models for Image Reconstruction|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 

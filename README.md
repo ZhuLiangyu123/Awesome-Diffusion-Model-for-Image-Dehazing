@@ -39,8 +39,8 @@ year={2025}
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 |21|ICLR 2025|DiffAD|Addressing domain shift with diffusion-based adaptation for real image dehazing|Zixuan Chen|-|-|
 |22|APSIPA ASC 2024|-|Enhanced RefineDNet for Single Image Dehazing|Jingyu Ren|-|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
+|23|arXiv 2025|DiffDehaze|Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing|Ruiyi Wang|[Code](https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing)|Yes|
+|24|NeurIPS 2024|-|Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization|Chen Hang|-|-|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|
 |20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|-|

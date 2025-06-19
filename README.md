@@ -54,7 +54,7 @@ year={2025}
 | |Publication|Method|Paper Title|First Author|Code Link|Pre-trained Model|
 |:-:|:-:|:-:|-|:-:|:-:|:-:|
 |1|VISUAL COMPUT 2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|[Code](https://github.com/RHEPI/UTDM)|-|
-|2|PAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|[Code](https://github.com/IGITUGraz/WeatherDiffusion)|Yes|
+|2|IEEE TPAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|[Code](https://github.com/IGITUGraz/WeatherDiffusion)|Yes|
 |3|TMM 2024|WaveDM|Wavedm: Wavelet-based diffusion models for image restoration|Yi Huang|[Code](https://github.com/stayalive16/WaveDM)|-|
 |4|arXiv 2024|GenDeg|GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration|Sudarshan Rajagopalan|[Code](https://github.com/sudraj2002/GenDeg)|-|
 |5|ECCV 2024|AutoDIR|Autodir: Automatic all-in-one image restoration with latent diffusion|Yitong Jiang|[Code](https://github.com/jiangyitong/AutoDIR)|Yes|

@@ -49,6 +49,7 @@ year={2025}
 |30|ICME 2025|ProDehaze|ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing|Tianwen Zhou|[Code](https://github.com/TianwenZhou/ProDehaze)|Yes|
 |31|arXiv 2025|BeyondHaze|Seeing Beyond Haze: Generative Nighttime Image Dehazing|Beibei Lin|-|-|
 |32|ICMLC 2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|-|
+|33|ICCV 2025|-|When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training|Yunwei Lan|-|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|Pre-trained Model|

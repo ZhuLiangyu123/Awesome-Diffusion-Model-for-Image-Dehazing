@@ -50,6 +50,10 @@ year={2025}
 |31|arXiv 2025|BeyondHaze|Seeing Beyond Haze: Generative Nighttime Image Dehazing|Beibei Lin|-|-|
 |32|ICMLC 2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|-|
 |33|ICCV 2025|-|When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training|Yunwei Lan|-|-|
+|34|arXiv 2025|FrDiff|Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing|Chengxu Liu|-|-|
+|35|Signal Image Video P 2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|-|
+|36|ESWA 2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|-|
+|37|Opt. Laser Technol. 2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|Pre-trained Model|

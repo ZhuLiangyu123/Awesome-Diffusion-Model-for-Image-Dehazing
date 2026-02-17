@@ -22,45 +22,45 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 
 
 ## Diffusion Models for Image Dehazing
-| |Publication|Method|Paper Title|First Author|Code Link|
-|:-:|:-:|:-:|-|:-:|:-:|
-|1|MMSP 2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|
-|2|ECCV 2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|-|
-|3|IEEE TITS 2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|
-|4|CVIU 2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|[Code](https://github.com/stallak/DehazeDP)|
-|5|arXiv 2023|DehazeDDPM|High-quality image dehazing with diffusion model|Hu Yu|[Code](https://github.com/yuhuUSTC/DehazeDDPM)|
-|6|Neural Networks 2024|HazeAug|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|
-|7|CGF 2024|DADM|Density‐Aware Diffusion Model for Efficient Image Dehazing|Ling Zhang|[Code](https://github.com/benchacha/DADM)|
-|8|ICIC 2024|MP-DDPM|A Multi-scale Patch Approach with Diffusion Model for Image Dehazing|Yao Guo|-|
-|9|ICIP 2024|-|Clouds and Haze Co-Removal Based on Weight-Tuned Overlap Refinement Diffusion Model for Remote Sensing Images|Jingxuan Zhang|-|
-|10|ISCAS 2024|DehazeDiff|DehazeDiff: When Conditional Guidance Meets Diffusion Models for Image Dehazing|Longyu Cheng|-|
-|11|SMC 2023|DehazeDM|DehazeDM: Image dehazing via patch autoencoder based on diffusion models|Yuming Yang|-|
-|12|GRSL 2023|ARDD-Net|Remote sensing image dehazing using adaptive region-based diffusion models|Yufeng Huang|-|
-|13|GRSL 2024|ADND-Net|Diffusion models based null-space learning for remote sensing image dehazing|Yufeng Huang|-|
-|14|CCC 2024|FP-Diff|Frequency-based and Physics-guiding Diffusion Model for Single Image Dehazing|Siying Xie|-|
-|15|ICIGP 2024|-|Image Dehazing based on Iterative-Refining Diffusion Model|Jiarong Wang|-|
-|16|ICMA 2024|DTDM|Image Dehazing Method Based on Diffusion Model|Fengxu Guan|-|
-|17|TGRS 2024|-|Integrated Methodology for Atmospheric Correction and Cloud Removal of Multispectral Remote Sensing Images Using Guided Diffusion Model|Anran Li|-|
-|18|TCSVT 2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|-|
-|19|ICASSP 2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|-|
-|20|AAAI 2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|
-|21|ICLR 2025|DiffAD|Addressing domain shift with diffusion-based adaptation for real image dehazing|Zixuan Chen|-|
-|22|APSIPA ASC 2024|-|Enhanced RefineDNet for Single Image Dehazing|Jingyu Ren|-|
-|23|arXiv 2025|DiffDehaze|Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing|Ruiyi Wang|[Code](https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing)|
-|24|NeurIPS 2024|-|Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization|Chen Hang|-|
-|25|arXiv 2025|IDDM|IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing|Shijun Zhou|-|
-|26|IEEE SPL 2025|KDDM|Scene Text Detection in Foggy Weather Utilizing Knowledge Distillation of Diffusion Models|Zhaoxi Liu|-|
-|27|IEEE TGRS 2025|MS-FODN|Collaboration of Dehazing and Object Detection Tasks: A Multi-Task Learning Framework for Foggy Image|Yu Wan|-|
-|28|MoSICom 2024|RD-DDPM|Revamped Lane detection in hazy environments using Denoising Diffusion Probabilistic Model|Sivakumar Palanirajan|-|
-|29|arXiv 2025|FDG-Diff|FDG-Diff: Frequency-Domain-Guided Diffusion Framework for Compressed Hazy Image Restoration|Ruicheng Zhang|[Code](https://github.com/SYSUzrc/FDG-Diff)|
-|30|ICME 2025|ProDehaze|ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing|Tianwen Zhou|[Code](https://github.com/TianwenZhou/ProDehaze)|
-|31|arXiv 2025|BeyondHaze|Seeing Beyond Haze: Generative Nighttime Image Dehazing|Beibei Lin|-|
-|32|ICMLC 2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|
-|33|ICCV 2025|-|When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training|Yunwei Lan|-|
-|34|arXiv 2025|FrDiff|Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing|Chengxu Liu|-|
-|35|Signal Image Video P 2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
-|36|ESWA 2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|
-|37|Opt. Laser Technol. 2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+| |Publication|Year|Method|Paper Title|First Author|Code Link|
+|:-:|:-:|:-:|-|:-:|:-:|:-:|
+|1|MMSP|2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|
+|2|ECCV|2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|-|
+|3|IEEE TITS|2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|
+|4|CVIU|2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|[Code](https://github.com/stallak/DehazeDP)|
+|5|arXiv|2023|DehazeDDPM|High-quality image dehazing with diffusion model|Hu Yu|[Code](https://github.com/yuhuUSTC/DehazeDDPM)|
+|6|Neural Networks|2024|HazeAug|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|
+|7|CGF|2024|DADM|Density‐Aware Diffusion Model for Efficient Image Dehazing|Ling Zhang|[Code](https://github.com/benchacha/DADM)|
+|8|ICIC|2024|MP-DDPM|A Multi-scale Patch Approach with Diffusion Model for Image Dehazing|Yao Guo|-|
+|9|ICIP|2024|-|Clouds and Haze Co-Removal Based on Weight-Tuned Overlap Refinement Diffusion Model for Remote Sensing Images|Jingxuan Zhang|-|
+|10|ISCAS|2024|DehazeDiff|DehazeDiff: When Conditional Guidance Meets Diffusion Models for Image Dehazing|Longyu Cheng|-|
+|11|SMC|2023|DehazeDM|DehazeDM: Image dehazing via patch autoencoder based on diffusion models|Yuming Yang|-|
+|12|GRSL|2023|ARDD-Net|Remote sensing image dehazing using adaptive region-based diffusion models|Yufeng Huang|-|
+|13|GRSL|2024|ADND-Net|Diffusion models based null-space learning for remote sensing image dehazing|Yufeng Huang|-|
+|14|CCC|2024|FP-Diff|Frequency-based and Physics-guiding Diffusion Model for Single Image Dehazing|Siying Xie|-|
+|15|ICIGP|2024|-|Image Dehazing based on Iterative-Refining Diffusion Model|Jiarong Wang|-|
+|16|ICMA|2024|DTDM|Image Dehazing Method Based on Diffusion Model|Fengxu Guan|-|
+|17|TGRS|2024|-|Integrated Methodology for Atmospheric Correction and Cloud Removal of Multispectral Remote Sensing Images Using Guided Diffusion Model|Anran Li|-|
+|18|TCSVT|2025|DMSR|When Aware Haze Density Meets Diffusion Model for Synthetic-to-Real Dehazing|Shibai Yin|-|
+|19|ICASSP|2024|Diff-HOD|Diff-HOD: Diffusion Model for Object Detection in Hazy Weather Conditions|Yizhan Li|-|
+|20|AAAI|2025|Diff-Dehazer|Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/Diff-Dehazer)|
+|21|ICLR|2025|DiffAD|Addressing domain shift with diffusion-based adaptation for real image dehazing|Zixuan Chen|-|
+|22|APSIPA ASC|2024|-|Enhanced RefineDNet for Single Image Dehazing|Jingyu Ren|-|
+|23|arXiv|2025|DiffDehaze|Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing|Ruiyi Wang|[Code](https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing)|
+|24|NeurIPS|2024|-|Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization|Chen Hang|-|
+|25|arXiv|2025|IDDM|IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing|Shijun Zhou|-|
+|26|SPL|2025|KDDM|Scene Text Detection in Foggy Weather Utilizing Knowledge Distillation of Diffusion Models|Zhaoxi Liu|-|
+|27|TGRS|2025|MS-FODN|Collaboration of Dehazing and Object Detection Tasks: A Multi-Task Learning Framework for Foggy Image|Yu Wan|-|
+|28|MoSICom|2024|RD-DDPM|Revamped Lane detection in hazy environments using Denoising Diffusion Probabilistic Model|Sivakumar Palanirajan|-|
+|29|arXiv|2025|FDG-Diff|FDG-Diff: Frequency-Domain-Guided Diffusion Framework for Compressed Hazy Image Restoration|Ruicheng Zhang|[Code](https://github.com/SYSUzrc/FDG-Diff)|
+|30|ICME|2025|ProDehaze|ProDehaze: Prompting Diffusion Models Toward Faithful Image Dehazing|Tianwen Zhou|[Code](https://github.com/TianwenZhou/ProDehaze)|
+|31|arXiv|2025|BeyondHaze|Seeing Beyond Haze: Generative Nighttime Image Dehazing|Beibei Lin|-|
+|32|ICMLC|2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|
+|33|ICCV|2025|-|When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training|Yunwei Lan|-|
+|34|arXiv|2025|FrDiff|Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing|Chengxu Liu|-|
+|35|Signal Image Video P|2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
+|36|ESWA|2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

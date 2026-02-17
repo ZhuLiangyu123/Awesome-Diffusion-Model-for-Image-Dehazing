@@ -61,6 +61,25 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |35|Signal Image Video P|2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
 |36|ESWA|2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|
 |37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|38|arXiv|2025|EvDehaze|From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing|Ling Wang|[code](https://evdehaze.github.io/)|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

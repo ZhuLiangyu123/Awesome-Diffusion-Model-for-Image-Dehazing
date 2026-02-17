@@ -13,8 +13,12 @@ journal={IET Image Processing},
 year={2026}
 ```
 
-## Awesome-Image-Dehazing-Datasets
+## Image Dehazing Datasets
 We summarize the datasets for image dehazing and provide detailed descriptions of each dataset. The summary and description of these datasets are under continuous update. The image dehazing datasets can be found [here](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
+
+
+## Image Dehazing Datasets
+We
 
 
 ## Diffusion Models for Image Dehazing

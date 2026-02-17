@@ -14,7 +14,7 @@ year={2026}
 ```
 
 ## Awesome-Image-Dehazing-Datasets
-We summarize the datasets for image dehazing and provide detailed descriptions of each dataset. The summary and description of these datasets are under continuous update. The image dehazing datasets can be found [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
+We summarize the datasets for image dehazing and provide detailed descriptions of each dataset. The summary and description of these datasets are under continuous update. The image dehazing datasets can be found [here](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
 
 
 ## Diffusion Models for Image Dehazing

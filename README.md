@@ -18,7 +18,7 @@ We summarize the datasets for image dehazing and provide detailed descriptions o
 
 
 ## Image Quality Assessment Metrics
-We
+For images with ground truth, we provide the calculation methods of PSNR, SSIM, and LPIPS [here](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
 
 
 ## Diffusion Models for Image Dehazing

@@ -5,7 +5,7 @@ However, due to individual limitations in energy and expertise, some researchers
 
 
 ## Cite US
-If this work is helpful to you, we expect you can cite this work and star this repository. Thanks！
+If this work is helpful to you, we expect you can cite this work and star this repository. Thanks!
 ```
 title={Diffusion Models and Its Applications in Image Dehazing: A Survey},
 author={Liangyu Zhu, Yanzhao Su, Zhigao Cui, Yunwei Lan, Nian Wang, Lanqing Zhang, Yanping Cai},

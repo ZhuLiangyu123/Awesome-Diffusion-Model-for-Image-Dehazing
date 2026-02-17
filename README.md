@@ -10,7 +10,8 @@ If this work is helpful to you, we expect you can cite this work and star this r
 ```
 title={Diffusion Models and Its Applications in Image Dehazing: A Survey},
 author={Liangyu Zhu, Yanzhao Su, Zhigao Cui, Yunwei Lan, Nian Wang, Lanqing Zhang, Yanping Cai},
-year={2025}
+journal={IET Image Processing},
+year={2026}
 ```
 
 

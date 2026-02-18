@@ -77,6 +77,13 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |51|AIPIP|2025|C<sup>2</sup>-DDPM|Image dehazing based on diffusion model guided by color constancy condition|Chao Huang|-|
 |52|RS|2025|WFDiff|Low-light image dehazing and enhancement via multi-feature domain fusion|Jiaxin Wu|-|
 |53|PRCV|2025|PGDM|Physics-Guided Diffusion Model for Unpaired Real-World Dehazing|Hanqi Wang|-|
+|54|TGRS|2025|DS-RDMPD|A Dual-Stage Residual Diffusion Model With Perceptual Decoding for Remote Sensing Image Dehazing|Hao Zhou|[code](https://github.com/Aaronwangz/DS-RDMPD)|
+|55|Atmosphere|2025|ASPDiff|Atmospheric scattering prior embedded diffusion model for remote sensing image dehazing|Shanqin Wang|-|
+|56|Sensors|2025|DFFNet|DFFNet: A Dual-Domain Feature Fusion Network for Single Remote Sensing Image Dehazing|Huazhong Jin|-|
+|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
+|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
+|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
+|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

@@ -115,4 +115,13 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |22|PR|2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|
 |23|AAAI|2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|
 |24|arXiv|2023|SUD&sup2;|SUD&sup2;: Supervision by Denoising Diffusion Models for Image Reconstruction|Matthew A Chan|-|
+|25|PR|2026|Weather-DiffMamba|All-in-One Adverse Weather Removal via Dual State Space-Based Diffusion Model with Degradation-Aware Guidance|Dirui Xie|-|
+|26|TMM|2025|ADSM|All-in-One Weather-Degraded Image Restoration Via Adaptive Degradation-Aware Self-Prompting Model|Yuanbo Wen|-|
+|27|IEEE Access|2025|UtilityIR|Always clear days: Degradation type and severity aware all-in-one adverse weather removal|YuWei Chen|[Code](https://github.com/fordevoted/UtilityIR)|
+|28|arXiv|2025|DOD|Diffusion Once and Done: Degradation-Aware LoRA for Efficient All-in-One Image Restoration|Ni Tang|-|
+|29|ICML|2025|IRBridge|IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models|Hanting Wang|[Code](https://github.com/HashWang-null/IRBridge)|
+|30|arXiv|2025|UniCoRN|UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations|Debabrata Mandal|[Code](https://codejaeger.github.io/unicorn-gh)|
+|31|PR|2025|CycleRDM|Unified image restoration and enhancement: Degradation calibrated cycle reconstruction diffusion model|Minglong Xue|[Code](https://github.com/hejh8/CycleRDM)|
+|32|arXiv|2025|UniLDiff|UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration|Zihan Cheng|-|
+|33|CVPR|2025|Defusion|Visual-Instructed Degradation Diffusion for All-in-One Image Restoration|Wenyang Luo|[Code](https://github.com/luowyang/Defusion)|
 

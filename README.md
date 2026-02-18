@@ -80,10 +80,10 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |54|TGRS|2025|DS-RDMPD|A Dual-Stage Residual Diffusion Model With Perceptual Decoding for Remote Sensing Image Dehazing|Hao Zhou|[code](https://github.com/Aaronwangz/DS-RDMPD)|
 |55|Atmosphere|2025|ASPDiff|Atmospheric scattering prior embedded diffusion model for remote sensing image dehazing|Shanqin Wang|-|
 |56|Sensors|2025|DFFNet|DFFNet: A Dual-Domain Feature Fusion Network for Single Remote Sensing Image Dehazing|Huazhong Jin|-|
-|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
-|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
-|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
-|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
+|57|TGRS|2025|DFG-DDM|DFG-DDM: Deep Frequency-Guided Denoising Diffusion Model for Remote Sensing Image Dehazing|Junjie Li|[code](https://github.com/Junjie-LLL/DFG-DDM)|
+|58|SIVP|2025|DMa-Diff|Dual-headed mamba diffusion model for remote sensing image dehazing|Yufeng Huang|-|
+|59|ACM MM|2025|SG-ARD|Saliency-Guided Adaptive Random Diffusion for Remote Sensing Images Restoration with Cloud and Haze|Wanting Zhang|-|
+|60|J-STARS|2025|Winscaleformer|Winscaleformer: Diffusion-Attention-Based Single Remote Sensing Image Dehazing|Nan Liu|[code](https://github.com/liunanwangxing/my_Winscaleformer)|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

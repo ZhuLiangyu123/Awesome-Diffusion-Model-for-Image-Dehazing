@@ -84,6 +84,8 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |58|SIVP|2025|DMa-Diff|Dual-headed mamba diffusion model for remote sensing image dehazing|Yufeng Huang|-|
 |59|ACM MM|2025|SG-ARD|Saliency-Guided Adaptive Random Diffusion for Remote Sensing Images Restoration with Cloud and Haze|Wanting Zhang|-|
 |60|J-STARS|2025|Winscaleformer|Winscaleformer: Diffusion-Attention-Based Single Remote Sensing Image Dehazing|Nan Liu|[code](https://github.com/liunanwangxing/my_Winscaleformer)|
+|61|CISAT|2025|-|Physics-based Diffusion Model for Joint Cloud and Haze Removal in Remote Sensing Images|Cheng Ma|[code](https://github.com/Mccc1003/Decloud-main)|
+|62|SUSTAINED|2024|ConvDDNet|Restoration of Remote Sensing Imagery via Unified Denoising and Dehazing Approaches|Josna Yusuf|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

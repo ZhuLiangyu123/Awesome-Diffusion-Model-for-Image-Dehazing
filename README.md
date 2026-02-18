@@ -29,7 +29,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |3|TITS|2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|
 |4|CVIU|2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|[Code](https://github.com/stallak/DehazeDP)|
 |5|arXiv|2023|DehazeDDPM|High-quality image dehazing with diffusion model|Hu Yu|[Code](https://github.com/yuhuUSTC/DehazeDDPM)|
-|6|Neural Networks|2024|HazeAug|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|
+|6|NN|2024|HazeAug|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|
 |7|CGF|2024|DADM|Density‐Aware Diffusion Model for Efficient Image Dehazing|Ling Zhang|[Code](https://github.com/benchacha/DADM)|
 |8|ICIC|2024|MP-DDPM|A Multi-scale Patch Approach with Diffusion Model for Image Dehazing|Yao Guo|-|
 |9|ICIP|2024|-|Clouds and Haze Co-Removal Based on Weight-Tuned Overlap Refinement Diffusion Model for Remote Sensing Images|Jingxuan Zhang|-|
@@ -60,7 +60,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |34|arXiv|2025|FrDiff|Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing|Chengxu Liu|-|
 |35|SIVP|2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
 |36|ESWA|2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|
-|37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
+|37|OLT|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
 |38|arXiv|2025|EvDehaze|From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing|Ling Wang|[code](https://evdehaze.github.io/)|
 |39|ASC|2025|DehazeDiff|Latent space diffusion model for image dehazing|Haobo Liang|[code](https://github.com/fatsotiger/DehazeDiff)|
 |40|arXiv|2025|4KDehazeFlow|4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching|Juxiang Zhou|-|
@@ -86,6 +86,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |60|J-STARS|2025|Winscaleformer|Winscaleformer: Diffusion-Attention-Based Single Remote Sensing Image Dehazing|Nan Liu|[code](https://github.com/liunanwangxing/my_Winscaleformer)|
 |61|CISAT|2025|-|Physics-based Diffusion Model for Joint Cloud and Haze Removal in Remote Sensing Images|Cheng Ma|[code](https://github.com/Mccc1003/Decloud-main)|
 |62|SUSTAINED|2024|ConvDDNet|Restoration of Remote Sensing Imagery via Unified Denoising and Dehazing Approaches|Josna Yusuf|-|
+|63|arXiv|2025|EM-B<sup>3</sup>DM|Semi-supervised Image Dehazing via Expectation-Maximization and Bidirectional Brownian Bridge Diffusion Models|Bing Liu|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

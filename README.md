@@ -89,30 +89,30 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |63|arXiv|2025|EM-B<sup>3</sup>DM|Semi-supervised Image Dehazing via Expectation-Maximization and Bidirectional Brownian Bridge Diffusion Models|Bing Liu|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
-| |Publication|Method|Paper Title|First Author|Code Link|
-|:-:|:-:|:-:|-|:-:|:-:|
-|1|VISUAL COMPUT 2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|[Code](https://github.com/RHEPI/UTDM)|
-|2|IEEE TPAMI 2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|[Code](https://github.com/IGITUGraz/WeatherDiffusion)|
-|3|TMM 2024|WaveDM|Wavedm: Wavelet-based diffusion models for image restoration|Yi Huang|[Code](https://github.com/stayalive16/WaveDM)|
-|4|arXiv 2024|GenDeg|GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration|Sudarshan Rajagopalan|[Code](https://github.com/sudraj2002/GenDeg)|
-|5|ECCV 2024|AutoDIR|Autodir: Automatic all-in-one image restoration with latent diffusion|Yitong Jiang|[Code](https://github.com/jiangyitong/AutoDIR)|
-|6|arXiv 2024|FoundIR|FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration|Hao Li|[Code](https://github.com/House-Leo/FoundIR)|
-|7|CVPR 2024|DiffUIR|Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model|Dian Zheng|[Code](https://github.com/iSEE-Laboratory/DiffUIR)|
-|8|arXiv 2023|IR-SDE|Image restoration with mean-reverting stochastic differential equations|Ziwei Luo|[Code](https://github.com/Algolzw/image-restoration-sde)|
-|9|CVPR 2023|Refusion|Refusion: Enabling large-size realistic image restoration with latent-space diffusion models|Ziwei Luo|[Code](https://github.com/Algolzw/image-restoration-sde)|
-|10|arXiv 2024|-|Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration|Xinlong Cheng|-|
-|11|ACCV 2024|DiffLoss|DiffLoss: unleashing diffusion model as constraint for training image restoration network|Jiangtong Tan|-|
-|12|arXiv 2024|JCDM|Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations|Yufeng Yue|-|
-|13|CVPR 2024|DTPM|Learning Diffusion Texture Priors for Image Restoration|Tian Ye|-|
-|14|CVPR 2024|DiffTTA|Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal|Yijun Yang|[Code](https://github.com/scott-yjyang/DiffTTA)|
-|15|arXiv 2024|CFMW|CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions|Haoyuan Li|[Code](https://github.com/lhy-zjut/CFMW)|
-|16|MMM 2025|TDM|TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration|Yizhou Li|[Code](https://github.com/Yizhou-Li-CV/TDM)|
-|17|CVPR 2024|TextualDeg Removal|Improving image restoration through removing degradations in textual representations|Jingbo Lin|[Code](https://github.com/mrluin/TextualDegRemoval)|
-|18|arXiv 2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|[Code](https://github.com/huawei-noah/Pretrained-IPT)|
-|19|CVPR 2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|[Code](https://github.com/yuhaoliu7456/Diff-Plugin/)|
-|20|arXiv 2024|Diff-Restorer|Diff-restorer: Unleashing visual prompts for diffusion-based universal image restoration|Yuhong Zhang|-|
-|21|arXiv 2023|VIDiff|Vidiff: Translating videos via multi-modal instructions with diffusion models|Zhen Xing|[Code](https://github.com/ChenHsing/VIDiff)|
-|22|PR 2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|
-|23|AAAI 2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|
-|24|arXiv 2023|SUD&sup2;|SUD&sup2;: Supervision by Denoising Diffusion Models for Image Reconstruction|Matthew A Chan|-|
+| |Publication|Year|Method|Paper Title|First Author|Code Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|VISUAL COMPUT|2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|[Code](https://github.com/RHEPI/UTDM)|
+|2|IEEE TPAMI|2023|WeatherDiff|Restoring vision in adverse weather conditions with patch-based denoising diffusion models|Ozan Özdenizci|[Code](https://github.com/IGITUGraz/WeatherDiffusion)|
+|3|TMM|2024|WaveDM|Wavedm: Wavelet-based diffusion models for image restoration|Yi Huang|[Code](https://github.com/stayalive16/WaveDM)|
+|4|arXiv|2024|GenDeg|GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration|Sudarshan Rajagopalan|[Code](https://github.com/sudraj2002/GenDeg)|
+|5|ECCV|2024|AutoDIR|Autodir: Automatic all-in-one image restoration with latent diffusion|Yitong Jiang|[Code](https://github.com/jiangyitong/AutoDIR)|
+|6|arXiv|2024|FoundIR|FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration|Hao Li|[Code](https://github.com/House-Leo/FoundIR)|
+|7|CVPR|2024|DiffUIR|Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model|Dian Zheng|[Code](https://github.com/iSEE-Laboratory/DiffUIR)|
+|8|arXiv|2023|IR-SDE|Image restoration with mean-reverting stochastic differential equations|Ziwei Luo|[Code](https://github.com/Algolzw/image-restoration-sde)|
+|9|CVPR|2023|Refusion|Refusion: Enabling large-size realistic image restoration with latent-space diffusion models|Ziwei Luo|[Code](https://github.com/Algolzw/image-restoration-sde)|
+|10|arXiv|2024|-|Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration|Xinlong Cheng|-|
+|11|ACCV|2024|DiffLoss|DiffLoss: unleashing diffusion model as constraint for training image restoration network|Jiangtong Tan|-|
+|12|arXiv|2024|JCDM|Joint Conditional Diffusion Model for Image Restoration with Mixed Degradations|Yufeng Yue|-|
+|13|CVPR|2024|DTPM|Learning Diffusion Texture Priors for Image Restoration|Tian Ye|-|
+|14|CVPR|2024|DiffTTA|Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal|Yijun Yang|[Code](https://github.com/scott-yjyang/DiffTTA)|
+|15|arXiv|2024|CFMW|CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions|Haoyuan Li|[Code](https://github.com/lhy-zjut/CFMW)|
+|16|MMM|2025|TDM|TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration|Yizhou Li|[Code](https://github.com/Yizhou-Li-CV/TDM)|
+|17|CVPR|2024|TextualDeg Removal|Improving image restoration through removing degradations in textual representations|Jingbo Lin|[Code](https://github.com/mrluin/TextualDegRemoval)|
+|18|arXiv|2024|Instruct-IPT|Instruct-ipt: All-in-one image processing transformer via weight modulation|Yuchuan Tian|[Code](https://github.com/huawei-noah/Pretrained-IPT)|
+|19|CVPR|2024|Diff-Plugin|Diff-Plugin：Revitalizing Details for Diffusion-based Low-level Tasks|Yuhao Liu|[Code](https://github.com/yuhaoliu7456/Diff-Plugin/)|
+|20|arXiv|2024|Diff-Restorer|Diff-restorer: Unleashing visual prompts for diffusion-based universal image restoration|Yuhong Zhang|-|
+|21|arXiv|2023|VIDiff|Vidiff: Translating videos via multi-modal instructions with diffusion models|Zhen Xing|[Code](https://github.com/ChenHsing/VIDiff)|
+|22|PR|2025|PhyDiff|Learning physical-aware diffusion priors for zero-shot restoration of scattering-affected images|Yuanjian Qiao|-|
+|23|AAAI|2025|Up-Restorer|Up-Restorer: When Unrolling Meets Prompts for Unified Image Restoration|Minghao Liu|-|
+|24|arXiv|2023|SUD&sup2;|SUD&sup2;: Supervision by Denoising Diffusion Models for Image Reconstruction|Matthew A Chan|-|
 

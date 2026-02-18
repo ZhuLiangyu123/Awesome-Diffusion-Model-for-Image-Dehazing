@@ -23,7 +23,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 
 ## Diffusion Models for Image Dehazing
 | |Publication|Year|Method|Paper Title|First Author|Code Link|
-|:-:|:-:|:-:|-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1|MMSP|2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|
 |2|ECCV|2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|-|
 |3|TITS|2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|

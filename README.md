@@ -66,6 +66,9 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |40|arXiv|2025|4KDehazeFlow|4KDehazeFlow: Ultra-High-Definition Image Dehazing via Flow Matching|Juxiang Zhou|-|
 |41|ICCV|2025|GenHaze|GenHaze: Pioneering Controllable One-Step Realistic Haze Generation for Real-World Dehazing|Sixiang Chen|-|
 |42|PLOS One|2025|HazeDiff|Hazediff: A training-free diffusion-based image dehazing method with pixel-level feature injection|Xiaoxia Lin|-|
+|43|ICME|2025|RBDM|Residual-based Efficient Bidirectional Diffusion Model for Image Dehazing and Haze Generation|Bing Liu|
+|39|ASC|2025|DehazeDiff|Latent space diffusion model for image dehazing|Haobo Liang|[code](https://github.com/fatsotiger/DehazeDiff)|
+|39|ASC|2025|DehazeDiff|Latent space diffusion model for image dehazing|Haobo Liang|[code](https://github.com/fatsotiger/DehazeDiff)|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

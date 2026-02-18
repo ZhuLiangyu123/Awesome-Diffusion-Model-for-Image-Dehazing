@@ -26,7 +26,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |:-:|:-:|:-:|-|:-:|:-:|:-:|
 |1|MMSP|2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|
 |2|ECCV|2024|DiffLI<sup>2</sup>D|Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing|Zizheng Yang|-|
-|3|IEEE TITS|2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|
+|3|TITS|2024|RSHazeDiff|RSHazeDiff: A Unified Fourier-aware Diffusion Model for Remote Sensing Image Dehazing|Jiamei Xiong|[Code](https://github.com/jm-xiong/RSHazeDiff)|
 |4|CVIU|2024|DehazeDP|Learning depth-aware decomposition for single image dehazing|Yumeng Kang|[Code](https://github.com/stallak/DehazeDP)|
 |5|arXiv|2023|DehazeDDPM|High-quality image dehazing with diffusion model|Hu Yu|[Code](https://github.com/yuhuUSTC/DehazeDDPM)|
 |6|Neural Networks|2024|HazeAug|Frequency compensated diffusion model for real-scene dehazing|Jing Wang|[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)|
@@ -58,7 +58,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |32|ICMLC|2024|UnDiff|Uncertainty-Aware Diffusion Model for Real-World Image Dehazing|YuanJian Qiao|-|
 |33|ICCV|2025|DehazeSB|When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training|Yunwei Lan|[Code](https://github.com/ywxjm/DehazeSB)|
 |34|arXiv|2025|FrDiff|Frequency Domain-Based Diffusion Model for Unpaired Image Dehazing|Chengxu Liu|-|
-|35|Signal Image Video P|2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
+|35|SIVP|2025|DehazeDiff|DehazeDiff: Image Dehazing via Mask-guided Diffusion Model|Liqun Luo|-|
 |36|ESWA|2025|-|Efficient image dehazing via temporal-aware diffusion|Haobo Liang|[code](https://github.com/fatsotiger/E_Diff_dehaze)|
 |37|Opt. Laser Technol.|2025|-|Adaptive dual-domain-guided semantics diffusion model for image defogging|Shaohui Jin|-|
 |38|arXiv|2025|EvDehaze|From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing|Ling Wang|[code](https://evdehaze.github.io/)|
@@ -70,10 +70,13 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
 |45|arXiv|2025|RPD-Diff|RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze|Ruicheng Zhang|-|
 |46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
-|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
-|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
-|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
-|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
+|47|PRL|2026|WDiT_Dehaze|Wavelet-based diffusion transformer for image dehazing|Cheng Ma|[code](https://github.com/Mccc1003/WDiT_Dehaze-main)|
+|48|VC|2025|Diff-HazeNet|Diff-HazeNet: enhancing real-world image dehazing via diffusion models in complex conditions|Jiaang Li|[code](https://github.com/lijang2000/Diff-HazeNet)|
+|49|arXiv|2025|DiffND|The Devil is in the Darkness: Diffusion-Based Nighttime Dehazing Anchored in Brightness Perception|Xiaofeng Cong|-|
+|50|IVC|2025|PD-DDPM|PD-DDPM: Prior-driven diffusion model for single image dehazing|Haoqin Sun|-|
+|51|AIPIP|2025|C<sup>2</sup>-DDPM|Image dehazing based on diffusion model guided by color constancy condition|Chao Huang|-|
+|52|RS|2025|WFDiff|Low-light image dehazing and enhancement via multi-feature domain fusion|Jiaxin Wu|-|
+|53|PRCV|2025|PGDM|Physics-Guided Diffusion Model for Unpaired Real-World Dehazing|Hanqi Wang|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

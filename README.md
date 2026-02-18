@@ -69,6 +69,11 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |43|ICME|2025|RBDM|Residual-based Efficient Bidirectional Diffusion Model for Image Dehazing and Haze Generation|Bing Liu|
 |44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
 |45|arXiv|2025|RPD-Diff|RPD-Diff: Region-Adaptive Physics-Guided Diffusion Model for Visibility Enhancement under Dense and Non-Uniform Haze|Ruicheng Zhang|-|
+|46|TMM|2025|LPCDiff|Real-scene image dehazing via laplacian pyramid-based conditional diffusion model|Yongzhen Wang|[code](https://github.com/yz-wang/LPCDiff)|
+|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
+|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
+|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
+|44|ICCV|2025|HazeFlow|HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing|Junseong Shin|[code](https://github.com/cloor/HazeFlow)|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Method|Paper Title|First Author|Code Link|

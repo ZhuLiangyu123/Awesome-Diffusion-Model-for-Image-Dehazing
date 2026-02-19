@@ -14,11 +14,12 @@ journal={IET Image Processing},
 year={2026}
 ```
 
-## Image Dehazing Datasets
+## :mega: News
+### Image Dehazing Datasets
 We summarise the image dehazing datasets and provide detailed descriptions of each. The summary and description of these datasets are under continuous update. The image dehazing datasets can be found [here](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
 
 
-## Image Quality Assessment Metrics
+### Image Quality Assessment Metrics
 For images with ground truth, we provide the calculation methods of PSNR [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), SSIM [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), LPIPS [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), MSE [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_MSE.py), SAM [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), ERGAS [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), UIQI [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), CIEDE2000 [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), and FID [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py).
 
 For the real-world hazy images without ground truth, we provide the calculation methods of NIQE [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), BRISQUE [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), and QNR [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py).

@@ -26,7 +26,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 
 --------------------------------------------------------------------------------------
 
-## Diffusion Models for Image Dehazing
+## :open_file_folder: Diffusion Models for Image Dehazing
 | |Publication|Year|Method|Paper Title|First Author|Code Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1|MMSP|2024|KCDiff|Robust Real-World Image Dehazing via Knowledge Guided Conditional Diffusion Model Finetuning|Haoran Wei|-|
@@ -94,7 +94,9 @@ For the real-world hazy images without ground truth, we provide the calculation 
 |63|arXiv|2025|EM-B<sup>3</sup>DM|Semi-supervised Image Dehazing via Expectation-Maximization and Bidirectional Brownian Bridge Diffusion Models|Bing Liu|-|
 |64|IEEE Access|2025|PADehazeNet|Remote Sensing Image Dehazing via Progressive Frequency Filtering and Adaptive Self-Attention|Lei Xu|-|
 
-## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
+------
+
+## :open_file_folder: Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Year|Method|Paper Title|First Author|Code Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1|VC|2024|UTDM|UTDM: a universal transformer-based diffusion model for multi-weather-degraded images restoration|Yongbo Yu|[Code](https://github.com/RHEPI/UTDM)|

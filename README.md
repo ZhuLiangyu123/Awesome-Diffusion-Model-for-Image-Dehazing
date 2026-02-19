@@ -19,6 +19,7 @@ We summarise the image dehazing datasets and provide detailed descriptions of ea
 
 ## Image Quality Assessment Metrics
 For images with ground truth, we provide the calculation methods of PSNR [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), SSIM [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), LPIPS [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_PSNR_SSIM_LPIPS.py), and MSE [here](https://github.com/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_MSE.py).
+For the real-world hazy images without ground truth, we provide the calculation methods of NIQE, PIQE, and BRISQUE.
 
 
 ## Diffusion Models for Image Dehazing

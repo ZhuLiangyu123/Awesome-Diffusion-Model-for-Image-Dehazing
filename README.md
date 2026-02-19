@@ -87,6 +87,7 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |61|CISAT|2025|-|Physics-based Diffusion Model for Joint Cloud and Haze Removal in Remote Sensing Images|Cheng Ma|[code](https://github.com/Mccc1003/Decloud-main)|
 |62|SUSTAINED|2024|ConvDDNet|Restoration of Remote Sensing Imagery via Unified Denoising and Dehazing Approaches|Josna Yusuf|-|
 |63|arXiv|2025|EM-B<sup>3</sup>DM|Semi-supervised Image Dehazing via Expectation-Maximization and Bidirectional Brownian Bridge Diffusion Models|Bing Liu|-|
+|64|IEEE Access|2025|PADehazeNet|Remote Sensing Image Dehazing via Progressive Frequency Filtering and Adaptive Self-Attention|Lei Xu|-|
 
 ## Diffusion Models for All-in-One Image Restoration (Including Dehazing)
 | |Publication|Year|Method|Paper Title|First Author|Code Link|
@@ -124,4 +125,6 @@ For images with ground truth, we provide the calculation methods of PSNR, SSIM, 
 |31|PR|2025|CycleRDM|Unified image restoration and enhancement: Degradation calibrated cycle reconstruction diffusion model|Minglong Xue|[Code](https://github.com/hejh8/CycleRDM)|
 |32|arXiv|2025|UniLDiff|UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration|Zihan Cheng|-|
 |33|CVPR|2025|Defusion|Visual-Instructed Degradation Diffusion for All-in-One Image Restoration|Wenyang Luo|[Code](https://github.com/luowyang/Defusion)|
-
+|34|TAI|2024|DHSGAN|Diverse hazy image synthesis via coloring network|Shengdong Zhang|-|
+|35|ICCV|2025|FGPS|Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration|Darshan Thaker|[Code](https://github.com/darshanthaker/FGPS)|
+|36|arXiv|2025|LCDiff|When Color-Space Decoupling Meets Diffusion for Adverse-Weather Image Restoration|Wenxuan Fang|[Code](https://github.com/fiwy0527/LCDiff)|

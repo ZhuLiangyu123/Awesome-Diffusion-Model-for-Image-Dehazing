@@ -132,3 +132,8 @@ For the real-world hazy images without ground truth, we provide the calculation 
 |34|TAI|2024|DHSGAN|Diverse hazy image synthesis via coloring network|Shengdong Zhang|-|
 |35|ICCV|2025|FGPS|Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration|Darshan Thaker|[Code](https://github.com/darshanthaker/FGPS)|
 |36|arXiv|2025|LCDiff|When Color-Space Decoupling Meets Diffusion for Adverse-Weather Image Restoration|Wenxuan Fang|[Code](https://github.com/fiwy0527/LCDiff)|
+
+
+--------------------------------------------------------------------------------------
+
+# :clap::clap::clap: Thanks to the above authors for their excellent work！

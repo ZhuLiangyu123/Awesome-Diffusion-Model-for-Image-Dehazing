@@ -1,7 +1,7 @@
 # Awesome-Diffusion-Model-for-Image-Dehazing
 We aim to provide a comprehensive summary of papers and code related to image dehazing based on diffusion models, to help interested individuals quickly understand and practice in this field.
 
-However, due to individual limitations in energy and expertise, some researchers' work may inevitably not be taken into account. We welcome researchers to leave their recent work in the Issues section, and we will update this page as soon as possible.
+However, due to individual limitations in energy and expertise, some researchers' work may inevitably not be taken into account. We welcome researchers to leave their recent work in the Issues, and we will update this page as soon as possible.
 
 
 ## Cite US

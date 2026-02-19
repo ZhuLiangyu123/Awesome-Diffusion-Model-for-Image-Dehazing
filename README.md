@@ -5,7 +5,7 @@ We aim to provide a comprehensive summary of papers and code related to image de
 However, due to individual limitations in energy and expertise, some researchers' work may inevitably not be taken into account. We welcome researchers to leave their recent work in the Issues, and we will update this page as soon as possible.
 
 
-## Cite US
+## :books: Cite US
 :heart_eyes_cat: If this work is helpful to you, we expect you can cite this work and star this repository. Thanks!
 ```
 title={Diffusion Models and Its Applications in Image Dehazing: A Survey},

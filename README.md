@@ -29,6 +29,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 | |Brief Introduction|Link|
 |:-:|:-:|:-:|
 |1|Dark Channel Prior (DCP)|[here](https://www.bilibili.com/video/BV1c94y1b7mi/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0) or [here](https://www.bilibili.com/video/BV1CX4y1P7Sk/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+|2|Low-level Vision|[here](https://space.bilibili.com/1652240494/lists/3608865?type=season)|
 |2|A report on image dehazing and deraining|[here](https://www.bilibili.com/video/BV1sJ411973P/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |3|Research on image enhancement technology in adverse environments|[here](https://www.bilibili.com/video/BV1aA411Y71L/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |4|Intelligent image processing technology for adverse environments|[here](https://www.bilibili.com/video/BV1sU4y1G7QU/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|

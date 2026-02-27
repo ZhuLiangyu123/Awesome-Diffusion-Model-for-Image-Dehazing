@@ -24,6 +24,9 @@ For images with ground truth, we provide the calculation methods of PSNR [here](
 
 For the real-world hazy images without ground truth, we provide the calculation methods of NIQE [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), BRISQUE [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py), and QNR [here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py).
 
+
+### :balloon: Image Dehazing Video Tutorial
+
 --------------------------------------------------------------------------------------
 
 ## :open_file_folder: Diffusion Models for Image Dehazing

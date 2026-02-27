@@ -26,7 +26,10 @@ For the real-world hazy images without ground truth, we provide the calculation 
 
 
 ### :balloon: Image Dehazing Video Tutorial
-
+| |Brief Introduction|Link|
+|:-:|:-:|:-:|
+|1|MMSP|[here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py)|
+|2|ECCV|[here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py)|
 --------------------------------------------------------------------------------------
 
 ## :open_file_folder: Diffusion Models for Image Dehazing

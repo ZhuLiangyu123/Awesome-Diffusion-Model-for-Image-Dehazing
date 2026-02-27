@@ -32,7 +32,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 |2|From Dark Channel Prior to Prior Learning|[here](https://www.bilibili.com/video/BV1vG411a75d/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |3|From Prior to Deep Learning: Intelligent Enhancement Techniques for Low-Visibility Images|[here](https://www.bilibili.com/video/BV1bK411p7En/?spm_id_from=333.1387.search.video_card.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |4|Low-level Vision|[here](https://space.bilibili.com/1652240494/lists/3608865?type=season)|
-|5|A Report on Image Dehazing and Deraining|[here](https://www.bilibili.com/video/BV1sJ411973P/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+|5|Special Report on Image Deraining and Dehazing|[here](https://www.bilibili.com/video/BV1sJ411973P/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |6|Research on Image Enhancement Technology in Adverse Environments|[here](https://www.bilibili.com/video/BV1aA411Y71L/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |7|Intelligent Image Processing Technology for Adverse Environments|[here](https://www.bilibili.com/video/BV1sU4y1G7QU/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |8|Exploring Diffusion Models for Image Restoration Tasks|[here](https://www.bilibili.com/video/BV1wE421w7Hy/?vd_source=4d1130d8d5d35c13eed86e69e41229a0)|

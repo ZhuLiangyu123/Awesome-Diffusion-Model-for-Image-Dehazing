@@ -34,6 +34,8 @@ For the real-world hazy images without ground truth, we provide the calculation 
 |4|A report on image dehazing and deraining|[here](https://www.bilibili.com/video/BV1sJ411973P/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |5|Research on image enhancement technology in adverse environments|[here](https://www.bilibili.com/video/BV1aA411Y71L/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |6|Intelligent image processing technology for adverse environments|[here](https://www.bilibili.com/video/BV1sU4y1G7QU/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+|7|Exploring diffusion models for image restoration tasks|[here](https://www.bilibili.com/video/BV1wE421w7Hy/?vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+
 --------------------------------------------------------------------------------------
 
 ## :open_file_folder: Diffusion Models for Image Dehazing

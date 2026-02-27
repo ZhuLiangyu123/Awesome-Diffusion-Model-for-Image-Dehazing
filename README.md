@@ -28,7 +28,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 ### :balloon: Image Dehazing Video Tutorial
 | |Brief Introduction|Link|
 |:-:|:-:|:-:|
-|1|MMSP|[here](https://bgithub.xyz/ZhuLiangyu123/Awesome-Diffusion-Model-for-Image-Dehazing/blob/main/Calculate_SAM_ERGAS_UIQI_QNR_BRISQUE_NIQE_PSNR_SSIM_CIEDE2000_LPIPS_FID.py)|
+|1|Dark Channel Prior (DCP)|[here](https://www.bilibili.com/video/BV1CX4y1P7Sk/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |2|A report on image dehazing and deraining|[here](https://www.bilibili.com/video/BV1sJ411973P/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |3|Research on image enhancement technology in adverse environments|[here](https://www.bilibili.com/video/BV1aA411Y71L/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 

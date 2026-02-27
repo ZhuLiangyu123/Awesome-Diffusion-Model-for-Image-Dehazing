@@ -36,6 +36,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 |6|Research on Image Enhancement Technology in Adverse Environments|[here](https://www.bilibili.com/video/BV1aA411Y71L/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |7|Intelligent Image Processing Technology for Adverse Environments|[here](https://www.bilibili.com/video/BV1sU4y1G7QU/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |8|Exploring Diffusion Models for Image Restoration Tasks|[here](https://www.bilibili.com/video/BV1wE421w7Hy/?vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+|9|Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing|[here](https://www.bilibili.com/video/BV1AGgfz1Ec4/?vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 
 --------------------------------------------------------------------------------------
 

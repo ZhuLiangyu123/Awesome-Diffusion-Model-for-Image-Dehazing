@@ -15,6 +15,8 @@ year={2026}
 ```
 
 ## :mega: News
+We have added a summary of commonly used resources for image dehazing, including datasets, video tutorials, and calculation methods for quality evaluation metrics.
+
 ### :balloon: Image Dehazing Datasets
 We summarise the image dehazing datasets and provide detailed descriptions of each. The summary and description of these datasets are under continuous update. The image dehazing datasets can be found [here](https://github.com/ZhuLiangyu123/Awesome-Image-Dehazing-Datasets).
 

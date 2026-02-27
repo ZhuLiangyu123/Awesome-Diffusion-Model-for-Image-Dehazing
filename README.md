@@ -30,7 +30,7 @@ For the real-world hazy images without ground truth, we provide the calculation 
 ### :balloon: Image Dehazing Video Tutorial
 | |Brief Introduction|Link|
 |:-:|:-:|:-:|
-|1|Research status of image dehazing methods|[here](https://www.bilibili.com/video/BV1pmCRYrEkK/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
+|1|Research Status of Image Dehazing Methods|[here](https://www.bilibili.com/video/BV1pmCRYrEkK/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |2|Dark Channel Prior (DCP)|[here](https://www.bilibili.com/video/BV1c94y1b7mi/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0) or [here](https://www.bilibili.com/video/BV1CX4y1P7Sk/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |3|From Dark Channel Prior to Prior Learning|[here](https://www.bilibili.com/video/BV1vG411a75d/?spm_id_from=333.337.search-card.all.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
 |4|From Prior to Deep Learning: Intelligent Enhancement Techniques for Low-Visibility Images|[here](https://www.bilibili.com/video/BV1bK411p7En/?spm_id_from=333.1387.search.video_card.click&vd_source=4d1130d8d5d35c13eed86e69e41229a0)|
